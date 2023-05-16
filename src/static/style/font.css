@@ -1,0 +1,61 @@
+.cs-fw-500 {
+  font-weight: 500;
+}
+
+.cs-fw-600 {
+  font-weight: 600;
+}
+
+.cs-fw-700 {
+  font-weight: 700;
+}
+
+.cs-fs-18 {
+  font-size: 18px;
+}
+
+.cs-fs-16 {
+  font-size: 1em;
+}
+
+.cs-fs-20 {
+  font-size: 20px;
+}
+
+.cs-fs-22 {
+  font-size: 22px;
+}
+
+.cs-fs-24 {
+  font-size: 24px;
+}
+
+.cs-fw-800 {
+  font-weight: 800;
+}
+
+.cs-cat-name {
+  font-weight: 700;
+}
+
+.cs-p-10 {
+  padding: 10px;
+}
+
+.cs-m-10 {
+  margin: 10px;
+}
+
+.cs-notation {
+  font-weight: 700;
+}
+
+.cs-product-name {
+  font-size: 1.4em;
+}
+
+.txt-remove {
+  font-weight: 700;
+  color: red;
+  font-size: 12px;
+}

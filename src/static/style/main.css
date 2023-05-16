@@ -1,0 +1,159 @@
+@import url("./font.css");
+@import url("./margin.css");
+
+.cs-layout {
+  background: #fff !important;
+}
+
+.cs-container {
+  margin: 5.5em 20px 20px 20px;
+}
+
+.cs-dashboard-table-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.cs-dis-flex {
+  display: flex;
+}
+
+.cs-hrz-center {
+  justify-content: center;
+  justify-items: center;
+}
+
+.cs-vt-center {
+  align-content: center;
+  align-items: center;
+}
+
+.cs-clr-success {
+  color: #4caf50;
+}
+
+.cs-clr-secondary {
+  color: #ff9800;
+}
+
+.cs-clr-danger {
+  color: #f44336;
+}
+
+.cs-vh100 {
+  height: 100vh;
+}
+
+.cs-clr-fff {
+  color: #fff;
+}
+
+.cs-br-10 {
+  border-radius: 10px !important;
+}
+
+.cs-w-100 {
+  width: 100%;
+}
+
+.cs-label {
+  color: rgba(71, 71, 71, 0.686);
+  font-weight: 600;
+}
+
+.cs-vh60 {
+  height: 60vh;
+}
+
+.cs-pos-abs {
+  position: absolute;
+  top: 50%;
+}
+
+.cs-font-12 {
+  font-size: 12px;
+}
+
+.cs-cursor-pointer {
+  cursor: pointer;
+}
+
+.cs-best-products .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+  background-color: #70b5c0 !important;
+}
+
+.cs-low-stock .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+  background-color: #fd5c62 !important;
+}
+
+.cs-best-deals .ant-progress-outer .ant-progress-inner .ant-progress-bg {
+  background-color: #775ea5 !important;
+}
+
+.cs-clr-purple {
+  color: #775ea5;
+}
+
+.cs-clr-discount {
+  color: #70b5c0;
+}
+
+.cs-layout .ant-layout-header {
+  padding: 0 25px !important;
+}
+
+.cs-card-wrapper {
+  padding: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.cs-w-max {
+  width: 100%;
+}
+
+.cs-float-right {
+  justify-items: flex-end;
+  justify-content: flex-end;
+}
+
+.fix-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.zi-5 {
+  z-index: 5;
+}
+
+#components-layout-demo-custom-trigger .trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.cs-img {
+  width: 40px;
+  height: auto;
+}
+
+.js-content-f-end {
+  justify-content: flex-end;
+}
+
+.cs-lm-10{
+  margin-left: 10px;
+}
